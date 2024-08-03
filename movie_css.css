@@ -1,0 +1,90 @@
+img{
+    width: 100%;
+    height: 233px;
+   
+
+}
+
+
+
+
+.raw{
+    height: 800px;
+    position: relative;
+    background-image: url("https://wallpapers.com/images/featured-full/fast-and-furious-9-vd1jelge0tng83ww.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.col{
+
+    height: 550px;
+    width: 200px;
+    border: rgb(7, 7, 7) 2px solid;
+    box-shadow: 22px 22px 22px 22px  rgb(228 228 211);
+    margin: 30px;
+    position: absolute;
+    top: 7%;
+    padding: 10px;
+}
+
+.col-1{
+    background: linear-gradient(to bottom, #F44336, #070707); 
+    left: 96px;
+
+}
+
+.col-2{
+    background: linear-gradient(to bottom, #F44336, #070707); 
+
+    
+    left:364px ;
+   }
+
+   .col-3{
+    background: linear-gradient(to bottom, #F44336, #070707); 
+
+   left: 635px;
+   }
+
+   .col-4{
+    background: linear-gradient(to bottom, #F44336, #070707); 
+
+    left: 902px;
+   }
+
+   
+    h3{
+        font-family:Angkor;
+        font-weight: 600;
+        font-size: 13px;
+        color: #080808; /* red color */
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+   }
+   h4{
+     text-align: center;
+
+   }
+p{
+     font-family:  Garamond, serif;
+    color: #a77676;
+}
+  
+#de1{
+        height:18px;
+    background-color: #5f0909;
+    box-shadow: -8px 10px 13px 0px rgba(0,0,0,0.75)
+}
+
+h1{
+    
+    font-family: 'Cinzel', serif;
+    font-size: 4rem;
+    text-align: center;
+    text-shadow: 2px 2px 0 #000, 2px 2px 0 #000;
+ 
+}
